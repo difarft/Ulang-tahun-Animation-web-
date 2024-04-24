@@ -1,0 +1,22 @@
+body{
+    background-image: url(/img/Background-Minecraft.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.kado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+.kado-img{
+    max-width: 30%; 
+    max-height: 30%; 
+    width: auto; 
+    height: auto;
+    cursor: pointer;
+}
+
